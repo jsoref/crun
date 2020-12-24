@@ -1,0 +1,8 @@
+^\.github/
+^configure\.ac$
+^GNUmakefile$
+^Makefile\.am$
+/Makefile
+^nix/
+ignore$
+\.mk$
